@@ -1,10 +1,5 @@
-### Hi there 👋
-
-
-**rauchips/rauchips** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
+# Hello world, I'm  <a href="https://rau-portfolio.herokuapp.com/">Benjamin Rau:wink:</a>
+# 💫About Me:
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
@@ -13,4 +8,9 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
-
+# 🌐Socials:
+# 💻Tech Stack:
+# 📊Github Stats:
+<img src="https://github-readme-stats.vercel.app/api?username=rauchips&theme=flag-india&hide_border=true&include_all_commits=false&count_private=false">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=rauchips&theme=flag-india&hide_border=true">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rauchips&theme=flag-india&hide_border=true&include_all_commits=false&count_private=false&layout=compact">
